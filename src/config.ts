@@ -1,6 +1,6 @@
 export default {
   secretKey: 'D4TT45T0K3NZ4P',
-  host: 'http://localhost',
+  host: 'http://0.0.0.0',
   port: '21465',
   deviceName: 'Dattas',
   poweredBy: 'WPPConnect-Server',
