@@ -1,8 +1,8 @@
 export default {
-  secretKey: 'THISISMYSECURETOKEN',
+  secretKey: 'D4TT45T0K3NZ4P',
   host: 'http://localhost',
   port: '21465',
-  deviceName: 'WppConnect',
+  deviceName: 'Dattas',
   poweredBy: 'WPPConnect-Server',
   startAllSession: true,
   tokenStoreType: 'file',
